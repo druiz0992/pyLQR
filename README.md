@@ -1,6 +1,7 @@
 # Intro
 LQR experimentation with several examples
 
+```
    Error          control               True state
 
 ---------- LRQ ----------- Robot ------------
@@ -9,6 +10,7 @@ LQR experimentation with several examples
   |------------- Sensor -------------|
 
       Estimated state
+```
 
 We provide different examples:
 - basic: simple linear problem
